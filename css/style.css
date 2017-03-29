@@ -1,12 +1,6 @@
-/*
-    Theme Name: Medilab
-    Theme URL: https://bootstrapmade.com/medilab-free-medical-bootstrap-theme/
-    Author: BootstrapMade.com
-    Author URL: https://bootstrapmade.com
-*/
 
 body {
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Titillium Web', sans-serif;
 	line-height: 20px;
 	color: #999999;
 	font-size: 300;
@@ -29,7 +23,7 @@ table {
 }
 h1, h2, h3, h4, h5, h6
 {
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Titillium Web', sans-serif;
 	font-weight: 600;
 	color: #222222;
 }
@@ -82,7 +76,7 @@ banner
 
 .navbar-brand
 {
-	font-family: 'Chewy', cursive;
+	font-family: 'Titillium Web', sans-serif;
 	font-size: 32px;
 }
 
@@ -154,7 +148,7 @@ banner
 	color: #fff;
 }
 .banner-text h1{
-	font-family: 'Candal', sans-serif;
+	font-family: 'Titillium Web', sans-serif;
 	font-size: 35px;
 	text-transform: uppercase;
 	padding-bottom:15px; 
